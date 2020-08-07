@@ -91,7 +91,7 @@ end
 
 def play 
 turn until over?
-puts winner ? "Congratualions #{winner}!" : "Cats Game"
+puts winner ? "Congratualions #{winner}!" : "Cat's Game!"
 end
 
 
