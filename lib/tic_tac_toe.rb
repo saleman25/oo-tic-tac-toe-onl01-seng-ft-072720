@@ -97,5 +97,3 @@ end
 
 end 
 
-tictactoe.new
-tictactoe.play
