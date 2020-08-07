@@ -95,14 +95,7 @@ puts winner ? "Congratulations #{winner}!" : "Cat's Game!"
 end
 
 
-
-
-
-
-
-
-
-
-
-
 end 
+
+tictactoe.new
+tictactoe.play
