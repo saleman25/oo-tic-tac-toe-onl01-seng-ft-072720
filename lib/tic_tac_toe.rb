@@ -90,7 +90,8 @@ end
 end
 
 def play 
-turn until? over
+turn until over?
+puts 
 end
 
 
